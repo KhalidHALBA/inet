@@ -3,7 +3,7 @@
 | Build and fingerprint tests | [![Travis CI][travis-master]][1] | [![Travis CI][travis-integration]][2] |
 | Feature enablement tests    | [![CircleCI][circle-master]][3]  | [![CircleCI][circle-integration]][4]  |
 
-Khalid's Change INET Framework for OMNEST/OMNeT++
+Khalid's Change miaw INET Framework for OMNEST/OMNeT++
 =================================
 
 The [INET framework](https://inet.omnetpp.org) is an open-source communication networks
